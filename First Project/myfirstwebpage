@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset ="utf-8">
+  <title>Black & White & Grey Photography</title>
+  <link rel="stylesheet" href="styles.css" >
+
+</head>
+
+<body>
+ <header>
+<h1>Black & White & Grey Photography</h1>
+ <h2>Cityscapes</h2>
+ </header>
+ <p> <em>   View our most popular black and white skyline photos below: </em> </p>
+    <ul>
+      <li class="myfav" >Chicago</li>
+        <img src = "http://www.horschgallery.com/Thumbnail%20Images/photo-of-chicago-skyline-black-and-white-panorama_panbw2.jpg" width="500">
+      <li class="2">San Francisco</li>
+        <img src = "http://www.horschgallery.com/Thumbnail%20Images/black-white-san-francisco-nightscape-winter-dawn_dmh49.jpg" width ="500" >
+      <li class="3">New York</li>
+        <img src = "http://www.standbyformindcontrol.com/wp-content/uploads/2013/07/NYC-Skyline.jpg?9d7bd4" width ="500" />
+      <li class="4">Los Angeles</li>
+        <img src = "http://farm3.staticflickr.com/2769/4400451916_5be983a3b6_z.jpg" width ="500" >
+      <li class="5">Seattle</li>
+        <img src = "http://www.pixelsmithphotography.com/gallery/var/albums/A-day-in-Seattle/Seattle-Light-%26-Night/IMG_0374_BWupload.jpg?m=1339955771" width ="500" >
+    </ul>
+
+<header>
+  <h2>Nature</h2>
+   <p> <em>   Select from our most popular links below: </em> </p>
+  <div> <a href ="http://www.horschgallery.com/photo/underwater-life/great-white-shark-underwater-in-black-white.aspx">Underwater</a></div>
+  <div><a href ="http://www.horschgallery.com/photo/black-white/davenport-coastal-sunset-in-black-white.aspx">Oceans</a></div>
+  <div><a href = "http://www.horschgallery.com/photo/black-white/bridalveil-falls-in-yosemite-national-park-in-black-white.aspx">Rocky Mountains</a></div>
+</header>
+
+<br>
+<br>
+
+<p> *** Horsch ©2013 *** </p>
+
+<br>
+<br>
+
+</body>
+</html>
