@@ -17,4 +17,10 @@ params = {
 
 cust_state = gets.chomp.upcase
 cust_sales_tax = sales_tax["#{cust_state}"]
-puts cust_sales_tax
+
+priceProduct= 0
+shopping_cart.each do |product|
+
+priceProduct += product["price"] * product['quantity']
+end
+puts "$#{(priceProduct * (1+cust_sales_tax)).to_i} "
